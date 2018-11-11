@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrencyConversion</string>
+    <string name="title_txt">Currency Conversion</string>
+    <string name="hint">Enter the amount</string>
+    <string name="conversion">Currency Conversion</string>
+    <string name="toast_txt">10,000</string>
+    <string name="button_txt">Convert</string>
+</resources>
